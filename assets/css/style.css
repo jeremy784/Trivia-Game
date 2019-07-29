@@ -1,0 +1,15 @@
+body{
+	background-image: url(http://piskel-resizer.appspot.com/resize?size=200&url=http%3A%2F%2Fwww.piskelapp.com%2Fimg%2Fd4e7f59c-f095-11e7-a7d9-93f21d4598c8.png);
+    text-align: center;
+    margin: auto, 0;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
