@@ -3,7 +3,7 @@ Basic JS Trivia Game
 
 HOW TO PLAY!
 
-***Music Optional***
+***Music Optional*** Click the play icon to start the music.
 
 Click "Start Game"
 You have 10 seconds to answer each question or you automatically get it wrong!
